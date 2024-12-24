@@ -1,0 +1,24 @@
+{
+    "title": "Questionnaire sur les Films et Séries",
+    "minimum_score": 2,
+    "success_message": "Félicitations! Vous êtes un véritable cinéphile!",
+    "failure_message": "Dommage! Vous devriez regarder plus de films et séries.",
+    "questions": [
+      {
+        "question": "Dans quel film trouve-t-on le personnage de Jack Dawson?",
+        "choices": [ "Le Seigneur des Anneaux", "Inception", "Titanic", "Avatar"],
+        "correct_answer": "Titanic"
+      },
+      {
+        "question": "Quelle série met en scène le personnage de Walter White?",
+        "choices": [ "Stranger Things", "Breaking Bad","Game of Thrones", "The Walking Dead"],
+        "correct_answer": "Breaking Bad"
+      },
+      {
+        "question": "Dans quel film Harry Potter rencontre-t-il pour la première fois Lord Voldemort?",
+        "choices": ["Harry Potter à l'école des sorciers", "Harry Potter et la Chambre des secrets", "Harry Potter et le Prisonnier d'Azkaban", "Harry Potter et la Coupe de feu"],
+        "correct_answer": "Harry Potter à l'école des sorciers"
+      }
+    ]
+  }
+  
