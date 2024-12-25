@@ -40,7 +40,7 @@ Ce projet est une application web de quiz sous forme de QCM, où l'utilisateur p
 Pour lancer ce projet localement, suivez les étapes suivantes :
 
 ```bash
-git clone https://yourrepository.com/my-quiz-app.git
+git clone https://github.com/YounessManyani/QCM-Films-Series.git
 cd my-quiz-app
 npm install
 npm run dev
