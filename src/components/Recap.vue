@@ -26,4 +26,4 @@ const score = computed(() => {
    return count;
 });
 const hasWon = computed(()=> score.value >= props.quiz.minimum_score)
-</script>
+</script> 
